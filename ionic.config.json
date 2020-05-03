@@ -1,0 +1,7 @@
+{
+  "name": "Antigua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
